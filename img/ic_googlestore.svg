@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127" height="44" viewBox="0 0 127 44">
+  <g id="Group_39" data-name="Group 39" transform="translate(-1227 -4609)">
+    <path id="Path_26" data-name="Path 26" d="M22,0h83a22,22,0,0,1,0,44H22A22,22,0,0,1,22,0Z" transform="translate(1227 4609)" fill="rgba(29,29,29,0.05)"/>
+    <path id="Icon_awesome-google-play" data-name="Icon awesome-google-play" d="M15.844,10.985,5.5.609,18.662,8.167l-2.818,2.818ZM2.8,0A1.822,1.822,0,0,0,1.779,1.655v20.69A1.822,1.822,0,0,0,2.8,24l12.03-12ZM22.731,10.577l-2.761-1.6L16.89,12l3.08,3.024,2.818-1.6a1.881,1.881,0,0,0-.056-2.851ZM5.5,23.4l13.165-7.558L15.844,13.02Z" transform="translate(1235.221 4619)" fill="#fff"/>
+    <text id="Google_Play" data-name="Google Play" transform="translate(1269 4636)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Google Play</tspan></text>
+  </g>
+</svg>

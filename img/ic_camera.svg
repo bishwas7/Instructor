@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46">
+  <g id="Group_35" data-name="Group 35" transform="translate(-315 -3048)">
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="46" height="46" transform="translate(315 3048)" fill="rgba(255,255,255,0)"/>
+    <g id="Icon_ionic-md-camera" data-name="Icon ionic-md-camera" transform="translate(319.7 3053)">
+      <path id="Path_16" data-name="Path 16" d="M22.43,19.688A4.43,4.43,0,1,1,18,15.258a4.43,4.43,0,0,1,4.43,4.43Z" fill="#7d7d7d"/>
+      <path id="Path_17" data-name="Path 17" d="M30.938,6.75H24.75L22.5,4.5h-9L11.25,6.75H5.063A2.812,2.812,0,0,0,2.25,9.563V28.688A2.812,2.812,0,0,0,5.063,31.5H30.938a2.812,2.812,0,0,0,2.813-2.812V9.563A2.812,2.812,0,0,0,30.938,6.75ZM18,27.563a7.875,7.875,0,1,1,7.875-7.875A7.875,7.875,0,0,1,18,27.563Z" fill="#7d7d7d"/>
+    </g>
+  </g>
+</svg>

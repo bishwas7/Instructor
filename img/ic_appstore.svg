@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="44" viewBox="0 0 115 44">
+  <g id="Group_41" data-name="Group 41" transform="translate(-1092 -4609)">
+    <g id="Group_40" data-name="Group 40">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 1)">
+        <path id="Path_27" data-name="Path 27" d="M22,0H93a22,22,0,0,1,0,44H22A22,22,0,0,1,22,0Z" transform="translate(1092 4608)" fill="rgba(29,29,29,0.05)"/>
+        <text id="App_Store" data-name="App Store" transform="translate(1136 4635)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">App Store</tspan></text>
+      </g>
+      <path id="Icon_awesome-app-store" data-name="Icon awesome-app-store" d="M12.558,6.025l.44-.76a.988.988,0,1,1,1.713.987l-4.234,7.331H13.54a1.355,1.355,0,0,1,1.118,1.974H5.682a.987.987,0,0,1,0-1.974H8.2L11.421,8,10.414,6.253a.988.988,0,0,1,1.713-.987l.431.76ZM8.75,16.574,7.8,18.219a.988.988,0,1,1-1.713-.987l.706-1.219a1.686,1.686,0,0,1,1.955.561Zm8.173-2.985h2.569a.987.987,0,0,1,0,1.974H18.064l.963,1.669a.988.988,0,1,1-1.713.987Q14.883,14,13.666,11.9a2.726,2.726,0,0,1,.348-3.344q.973,1.669,2.908,5.032ZM12.563.563a12,12,0,1,0,12,12A12,12,0,0,0,12.563.563Zm10.452,12A10.452,10.452,0,1,1,12.563,2.111,10.451,10.451,0,0,1,23.014,12.563Z" transform="translate(1101.438 4618.438)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
